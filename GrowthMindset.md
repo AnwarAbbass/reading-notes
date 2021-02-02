@@ -1,8 +1,3 @@
-
-# Introduction
-
-Hi, my name is anwar abbbass , i graduate from al-balqa'a university in computer scince. I love machine Learning so my capstone was about classification voice based on gender,age and accent, so after that i taked A data scince courses and Now I have a passion for programming web pages and applications so I have lessons on LTUC college
-
 # Growth Mindset
 
 _A growth mindset is a kind of passion to learning more in the growth mindset vision intelligence and talent are a good start point. however, perseverance and effort are the basis of development. rather than a fixed mindset that its vision to intelligence and talent is an important point and the basis._
