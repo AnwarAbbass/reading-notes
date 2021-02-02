@@ -12,4 +12,4 @@ Hi, my name is anwar abbbass , i graduate from al-balqa'a university in computer
 | Main          | [site](https://anwarabbass.github.io/reading-notes/)               |
 | Markdown      | [site](https://anwarabbass.github.io/reading-notes/Markdown)       |
 | github        | [site](https://anwarabbass.github.io/reading-notes/github)         |
-| GrowthMindset | [site](https://anwarabbass.github.io/reading-notes/GrowthMindset.) |
+| GrowthMindset | [site](https://anwarabbass.github.io/reading-notes/GrowthMindset) |
