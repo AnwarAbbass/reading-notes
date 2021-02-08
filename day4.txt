@@ -1,0 +1,19 @@
+day 3:
+doctype to let the browser know the version of html
+head 
+body:the page elements
+the body have 3 parts of symantic elements 
+symantic elements have no effect on the display of web page
+symantic : header, main, nave, footer
+header:put yor links 
+main:
+footer:put the copywrite
+
+day4:
+js object orinted programming language of the web (in time compile)
+end the code wit';'
+
+var : defining variables
+console.log(var/"string"/Any thing): print 
+constant is a data item whose value cant change during the program is execution
+<script>: to use java script in the html file
