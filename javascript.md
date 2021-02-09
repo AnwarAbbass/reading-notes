@@ -57,6 +57,24 @@ To declare a function you need to define function name, parenthesises (you can p
 
 we use `return variable ;` in the end of the function to return values from the function
 
+let we take an example 
+
+1. `function helloPrint(){ document.writeln('Hello'); }`
+1. `function helloPrint(name){ document.writeln('Hello ${name}'); }`
+1. `function helloPrint(name){ document.writeln('Hello ${name}'); return name; }`
+
+there are tow type of the functions 
+
++ **FUNCTION DECLARATION** : it's like the examples previously
++ **FUNCTION EXPRESSION** : you can define function in variable by this way 
+
+`var area = f unction(width, height) {
+return width * height;
+} ;`
+
+and you can call the funstion in the same type in the same way `area (3, 4) ;`
+
+
 <HR>
 <span style="color:gray;font-family:Papyrus; font-size:2em;"> DECISIONS & LOOPS </span>
 
