@@ -30,7 +30,7 @@ JavaScript|[site](https://anwarabbass.github.io/reading-notes/javascript)
 | name          | linke                                                              |
 | ------------- | ------------------------------------------------------------------ |
 | Main          | [site](https://anwarabbass.github.io/reading-notes/)               |
-|       | [site]()       |
+|  HTML,CSS,JS Review     | [site](https://anwarabbass.github.io/reading-notes/class-01)       |
 |         | [site]()         |
 |  | [site]() |
 |       | [site]()
