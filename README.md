@@ -32,21 +32,21 @@ _On this site, I put together a set of abstracts for books and articles that tal
 
 # Code 201 Reading Notes
 
-| name               | linke           |
-| ------------------ | --------------- |
-| Main               | [site](https://anwarabbass.github.io/reading-notes/)         |
-| HTML,CSS,JS Review | [site](https://anwarabbass.github.io/reading-notes/class-01) |
-| class-02           | [site](https://anwarabbass.github.io/reading-notes/class-02)  |
-| class-03           | [site](https://anwarabbass.github.io/reading-notes/class-03) |
-| class-04           | [site](https://anwarabbass.github.io/reading-notes/class-04)    |
-|                    | [site]()                                                     |
-|                    | [site]()                                                     |
-|                    | [site]()                                                     |
-|                    | [site]()                                                     |
-|                    | [site]()                                                     |
-|                    | [site]()                                                     |
-|                    | [site]()                                                     |
-|                    | [site]()                                                     |
-|                    | [site]()                                                     |
-|                    | [site]()                                                     |
-|                    | [site]()                                                     |
+| name     | linke                                                        |
+| -------- | -------------------------------- |
+| Main     | [site](https://anwarabbass.github.io/reading-notes/)         |
+| class-01 | [site](https://anwarabbass.github.io/reading-notes/class-01) |
+| class-02 | [site](https://anwarabbass.github.io/reading-notes/class-02) |
+| class-03 | [site](https://anwarabbass.github.io/reading-notes/class-03) |
+| class-04 | [site](https://anwarabbass.github.io/reading-notes/class-04) |
+|          | [site]()                                                     |
+|          | [site]()                                                     |
+|          | [site]()                                                     |
+|          | [site]()                                                     |
+|          | [site]()                                                     |
+|          | [site]()                                                     |
+|          | [site]()                                                     |
+|          | [site]()                                                     |
+|          | [site]()                                                     |
+|          | [site]()                                                     |
+|          | [site]()                                                     |
