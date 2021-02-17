@@ -38,11 +38,11 @@ _Syntax:_
 
 _Example:_
 
-`var names = ['noor','batool','sara'];` _array literal_
+`var names = ['Anwar','Rahaf','Majd'];` _array literal_
 
 **or**
 
-`var names = new Array ('noor','batool','sara');` _array constructor_
+`var names = new Array ('Anwar','Rahaf','Majd');` _array constructor_
 
 ### Switch:
 
