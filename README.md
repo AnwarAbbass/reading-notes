@@ -33,14 +33,14 @@ _On this site, I put together a set of abstracts for books and articles that tal
 # Code 201 Reading Notes
 
 | name     | linke                                                        |
-| -------- | -------------------------------- |
+| -------- | ------------------------------------------------------------ |
 | Main     | [site](https://anwarabbass.github.io/reading-notes/)         |
 | class-01 | [site](https://anwarabbass.github.io/reading-notes/class-01) |
 | class-02 | [site](https://anwarabbass.github.io/reading-notes/class-02) |
 | class-03 | [site](https://anwarabbass.github.io/reading-notes/class-03) |
 | class-04 | [site](https://anwarabbass.github.io/reading-notes/class-04) |
-| class-05 | [site](https://anwarabbass.github.io/reading-notes/class-05)   |
-|          | [site]()                                                     |
+| class-05 | [site](https://anwarabbass.github.io/reading-notes/class-05) |
+| class-06 | [site](https://anwarabbass.github.io/reading-notes/class-06) |
 |          | [site]()                                                     |
 |          | [site]()                                                     |
 |          | [site]()                                                     |
