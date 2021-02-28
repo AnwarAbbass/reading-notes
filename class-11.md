@@ -1,46 +1,41 @@
-## HANDLING & DEBUGGING
+## Images
 
-![](https://jesusheredia.info/sites/default/files/styles/teaser/public/field/image/error.jpg?itok=VBKQsAHS)
+The HTML `<img>` tag is used to embed an image in a web page. It is an empty tag (does not have a closing tag).
 
-- If you understand **execution contexts** (which have two stages) and stacks, you are more likely to find the error
-  in your code.
+The <img> tag has two required attributes:
 
-Every statement in a script lives in one of three execution contexts:
+- src - Specifies the path to the image
+- alt - Specifies an alternate text for the image
 
-1. **GLOBAL CONTEXT**
-   Code that is in the script, but not in a function.There is only one global context in any page.
-2. **FUNCTION CONTEXT**
-   Code that is being run within a function. Each function has its own function context.
-3. **EVAL CONTEXT** (NOT SHOWN)
-   Text is executed like code in an internal function called eval().
+*Syntax:*
+`<img src="url" alt="alternatetext">`
 
-**VARIABLE SCOPE**
+### Three Rules for Creating Images:
 
-1. **GLOBAL SCOPE**: If a variable is declared outside a function, it can be used anywhere because it has global scope. The `var` keyword create a variable in global scope.
+1. Save images in the right format: Websites mainly use images in *jpeg, gif, or png*.
 
-2. **FUNCTION-LEVEL SCOPE**: When a variable is declared within a function,
-   it can only be used within that function.
+2. Save images at the right size: You should save the image at the same width and height it will appear on the website.
 
-- Debugging is the process of finding errors. It involves a process of deduction.
+3. Use the correct resolution Computer screens are made up of dots known as *pixels*. Images created for the web should be saved at a resolution of 72 ppi. The higher the resolution of the image, the larger the size of the file.
 
-![](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/08/JavaScript-Debugging-and-Testing.png)
+- Photographs are best saved as JPEGs; illustrations or logos that use flat colors are better saved as GIFs.
 
-- The console helps narrow down the area in which the error is located, so you can try to find the exact error. The `console.log()` method can write data from a script to the console. If you open console-log.html, you will see that a note is written to the console when the page loads. And you can use three different methods:
 
-1. `conso1e.info()` can be used for general information.
-2. `console.warn()` can be used for warnings.
-3. `console.error()` can be used to hold errors.
+## Practical Information
 
-- JavaScript has 7 different types of errors. Each creates its own error object, which can tell you its line number and gives a description of the error.
+- Search engine optimization helps visitors find your sites when using search engines.
 
-  1.  Syntax Error: This is caused by incorrect use of the rules of the language. It is often the result of a simple typo.
-  2.  Reference Error: This is caused by a variable that is not declared or is out of scope.
-  3.  URI Error: If these characters are not escaped in URls, they will cause an error: / ? & I : ;
-  4.  Type Error: This is often caused by trying to use an object or method that does not exist.
-  5.  RangeError: If you call a function using numbers outside of its accepted range.
-  6.  NaN _(NOT A NUMBER)_: If you perform a mathematical operation using a value that is not a number, you end up with the value of NaN, not a type error.
-  7.  EvalError: INCORRECT USE OF eval() FUNCTION.
+- Analytics tools such as **Google Analytics** allow you to see how many people visit your site, how they find it, and what they do when they get there.
 
-- You can create a breakpoint in your code using just the debugger keyword. When the developer tools are open, this will automatically create a breakpoint.
+- To put your site on the web, you will need to obtain a domain name and web hosting.
 
-- If you know that you may get an error, you can handle it gracefully using the **try**, **catch**, **finally** statements. Use them to give your users helpful feedback.
+- FTP programs allow you to transfer files from your local computer to your web server.
+
+- Many companies provide platforms for blogging, email newsletters, e-commerce and other popular website tools (to save you writing them from scratch).
+
+
+## Video and Audio
+
+The `<video>` and `<audio>` elements allow us to embed video and audio into web pages. 
+
+- **HTMLMediaElement** API provides features to allow you to control video and audio players such as `HTMLMediaElement.play()` and `HTMLMediaElement.pause()`. 
