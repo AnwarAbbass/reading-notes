@@ -47,6 +47,10 @@ _On this site, I put together a set of abstracts for books and articles that tal
 | class-10 | [site](https://anwarabbass.github.io/reading-notes/class-10) |
 | class-11 | [site](https://anwarabbass.github.io/reading-notes/class-11) |
 | class-12 | [site](https://anwarabbass.github.io/reading-notes/class-12) |
+<<<<<<< HEAD
+| class-13 | [site](https://anwarabbass.github.io/reading-notes/class-13) |
+=======
 |          | [site]()                                                     |
+>>>>>>> b6498b1f2b870243952bf2d04bf838914caa386a
 |          | [site]()                                                     |
 |          | [site]()                                                     |
