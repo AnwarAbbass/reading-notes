@@ -32,21 +32,21 @@ _On this site, I put together a set of abstracts for books and articles that tal
 
 # Code 201 Reading Notes
 
-| name     | linke                                                        |
-| -------- | ------------------------------------------------------------ |
-| Main     | [site](https://anwarabbass.github.io/reading-notes/)         |
-| class-01 | [site](https://anwarabbass.github.io/reading-notes/class-01) |
-| class-02 | [site](https://anwarabbass.github.io/reading-notes/class-02) |
-| class-03 | [site](https://anwarabbass.github.io/reading-notes/class-03) |
-| class-04 | [site](https://anwarabbass.github.io/reading-notes/class-04) |
-| class-05 | [site](https://anwarabbass.github.io/reading-notes/class-05) |
-| class-06 | [site](https://anwarabbass.github.io/reading-notes/class-06) |
-| class-07 | [site](https://anwarabbass.github.io/reading-notes/class-07) |
-| class-08 | [site](https://anwarabbass.github.io/reading-notes/class-08) |
-| class-09 | [site](https://anwarabbass.github.io/reading-notes/class-09) |
-| class-10 | [site](https://anwarabbass.github.io/reading-notes/class-10) |
-| class-11 | [site](https://anwarabbass.github.io/reading-notes/class-11) |
-| class-12 | [site](https://anwarabbass.github.io/reading-notes/class-12) |
-| class-13 | [site](https://anwarabbass.github.io/reading-notes/class-13) |
-| class-13 | [site](https://anwarabbass.github.io/reading-notes/class-14) |
-| reading-14| [site](https://anwarabbass.github.io/reading-notes/reading-14)|
+| name       | linke                                                          |
+| ---------- | -------------------------------------------------------------- |
+| Main       | [site](https://anwarabbass.github.io/reading-notes/)           |
+| class-01   | [site](https://anwarabbass.github.io/reading-notes/class-01)   |
+| class-02   | [site](https://anwarabbass.github.io/reading-notes/class-02)   |
+| class-03   | [site](https://anwarabbass.github.io/reading-notes/class-03)   |
+| class-04   | [site](https://anwarabbass.github.io/reading-notes/class-04)   |
+| class-05   | [site](https://anwarabbass.github.io/reading-notes/class-05)   |
+| class-06   | [site](https://anwarabbass.github.io/reading-notes/class-06)   |
+| class-07   | [site](https://anwarabbass.github.io/reading-notes/class-07)   |
+| class-08   | [site](https://anwarabbass.github.io/reading-notes/class-08)   |
+| class-09   | [site](https://anwarabbass.github.io/reading-notes/class-09)   |
+| class-10   | [site](https://anwarabbass.github.io/reading-notes/class-10)   |
+| class-11   | [site](https://anwarabbass.github.io/reading-notes/class-11)   |
+| class-12   | [site](https://anwarabbass.github.io/reading-notes/class-12)   |
+| class-13   | [site](https://anwarabbass.github.io/reading-notes/class-13)   |
+| class-14   | [site](https://anwarabbass.github.io/reading-notes/class-14)   |
+| reading-14 | [site](https://anwarabbass.github.io/reading-notes/reading-14) |
