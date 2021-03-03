@@ -49,8 +49,5 @@ _On this site, I put together a set of abstracts for books and articles that tal
 | class-12 | [site](https://anwarabbass.github.io/reading-notes/class-12) |
 <<<<<<< HEAD
 | class-13 | [site](https://anwarabbass.github.io/reading-notes/class-13) |
-=======
-|          | [site]()                                                     |
->>>>>>> b6498b1f2b870243952bf2d04bf838914caa386a
-|          | [site]()                                                     |
-|          | [site]()                                                     |
+| class-13 | [site](https://anwarabbass.github.io/reading-notes/class-14) |
+| reading-14| [site](https://anwarabbass.github.io/reading-notes/reading-14)|
