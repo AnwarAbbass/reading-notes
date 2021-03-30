@@ -51,8 +51,11 @@ _On this site, I put together a set of abstracts for books and articles that tal
 | class-14   | [site](https://anwarabbass.github.io/reading-notes/class-14)   |
 | reading-14 | [site](https://anwarabbass.github.io/reading-notes/reading-14) |
 
+---
 
+# Code 301 Reading Notes
 
-| name  | linke   |
-| ------------- | -----------|
-class 01 | [site](https://anwarabbass.github.io/reading-notes/readClass01)|
+| name     | linke                                                           |
+| -------- | --------------------------------------------------------------- |
+| class 02 | [site](https://anwarabbass.github.io/reading-notes/readClass01) |
+| class 03 | [site](https://anwarabbass.github.io/reading-notes/readClass03) |
