@@ -59,3 +59,4 @@ _On this site, I put together a set of abstracts for books and articles that tal
 | -------- | --------------------------------------------------------------- |
 | class 02 | [site](https://anwarabbass.github.io/reading-notes/readClass01) |
 | class 03 | [site](https://anwarabbass.github.io/reading-notes/readClass03) |
+| class 04 | [site](https://anwarabbass.github.io/reading-notes/readClass04) |

@@ -9,8 +9,7 @@ Javascript templating: is a technique use to render client-side view templates w
 **Mustache**: is a logic-less template syntax you can use it for HTML and in different languages. It works by expanding tags in a template using values in an object.
 
 
-![](http://www.kodecrash.com/wp-content/uploads/2019/03/mustache-js-introduction.png)
-
+------
 
 
 ## Flexbox
