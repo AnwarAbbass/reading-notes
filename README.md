@@ -57,10 +57,12 @@ _On this site, I put together a set of abstracts for books and articles that tal
 
 | name     | linke                                                           |
 | -------- | --------------------------------------------------------------- |
-| class 02 | [site](https://anwarabbass.github.io/reading-notes/readClass01) |
+| class 01 | [site](https://anwarabbass.github.io/reading-notes/readClass01) |
+| class 02 | [site](https://anwarabbass.github.io/reading-notes/readClass02) |
 | class 03 | [site](https://anwarabbass.github.io/reading-notes/readClass03) |
 | class 04 | [site](https://anwarabbass.github.io/reading-notes/readClass04) |
 | class 05 | [site](https://anwarabbass.github.io/reading-notes/readClass05) |
+| class 06 | [site](https://anwarabbass.github.io/reading-notes/readClass06) |
 | class 07 | [site](https://anwarabbass.github.io/reading-notes/readClass07) |
 | class 08 | [site](https://anwarabbass.github.io/reading-notes/readClass08) |
 | class 09 | [site](https://anwarabbass.github.io/reading-notes/readClass09) |
