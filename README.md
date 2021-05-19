@@ -76,4 +76,4 @@ _On this site, I put together a set of abstracts for books and articles that tal
 # Code 401 - Advanced Software Development
 | name     | linke                                                           |
 | -------- | --------------------------------------------------------------- |
-|class 0 | [site](https://anwarabbass.github.io/reading-notes/401/read1) |
+|class 0 | [site]( ) |
