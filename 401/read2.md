@@ -40,3 +40,14 @@ SOAP-ENV:encodingStyle
 REST
 {"city":"Mumbai","state":"Maharastra"}
 ```
+
+******************
+## Web Server :
+* A web server is computer software and underlying hardware that accepts requests via HTTP, the network protocol created to distribute web pages.
+
+## Express : 
+* Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+## Routing :
+* Routing refers to how an application's endpoints (URIs) respond to client requests
+## WRRC :
+* A simple diagram of the request/response cycle. The web is a cycle of requests and responses that flow between clients and servers. 
