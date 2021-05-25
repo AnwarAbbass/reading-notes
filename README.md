@@ -83,3 +83,4 @@ _On this site, I put together a set of abstracts for books and articles that tal
 |class 5 | [site](https://anwarabbass.github.io/reading-notes/401/read5) |
 |class 6 | [site](https://anwarabbass.github.io/reading-notes/401/read6) |
 |class 7 | [site](https://anwarabbass.github.io/reading-notes/401/read7) |
+|class 8 | [site](https://anwarabbass.github.io/reading-notes/401/read8) |
