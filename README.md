@@ -74,8 +74,8 @@ _On this site, I put together a set of abstracts for books and articles that tal
 |class 15 | [site](https://anwarabbass.github.io/reading-notes/readClass15) |
 
 # Code 401 - Advanced Software Development
-| name     | linke                                                           |
-| -------- | --------------------------------------------------------------- |
+| name     | linke    |
+| -------- | -------------------------- |
 |class 1 | [site](https://anwarabbass.github.io/reading-notes/401/read1) |
 |class 2 | [site](https://anwarabbass.github.io/reading-notes/401/read2) |
 |class 3 | [site](https://anwarabbass.github.io/reading-notes/401/read3) |
@@ -84,4 +84,5 @@ _On this site, I put together a set of abstracts for books and articles that tal
 |class 6 | [site](https://anwarabbass.github.io/reading-notes/401/read6) |
 |class 7 | [site](https://anwarabbass.github.io/reading-notes/401/read7) |
 |class 8 | [site](https://anwarabbass.github.io/reading-notes/401/read8) |
-|class 10 | [site](https://anwarabbass.github.io/reading-notes/401/read10) |
+|class 9 | [site](https://anwarabbass.github.io/reading-notes/401/read9)|
+|class 10| [site](https://anwarabbass.github.io/reading-notes/401/read10)|
