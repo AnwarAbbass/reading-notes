@@ -95,3 +95,4 @@ _On this site, I put together a set of abstracts for books and articles that tal
 |class 17| [site](https://anwarabbass.github.io/reading-notes/401/read17)|
 |class 18| [site](https://anwarabbass.github.io/reading-notes/401/read18)|
 |class 19| [site](https://anwarabbass.github.io/reading-notes/401/read19)|
+|class 26| [site](https://anwarabbass.github.io/reading-notes/401/read26)|
