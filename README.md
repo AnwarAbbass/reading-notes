@@ -102,3 +102,4 @@ _On this site, I put together a set of abstracts for books and articles that tal
 |class 30| [site](https://anwarabbass.github.io/reading-notes/401/read30)|
 |class 31| [site](https://anwarabbass.github.io/reading-notes/401/read31)|
 |class 32| [site](https://anwarabbass.github.io/reading-notes/401/read32)|
+|class 33| [site](https://anwarabbass.github.io/reading-notes/401/read33)|
