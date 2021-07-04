@@ -29,7 +29,7 @@
 ### conditional rendering :
   - The ability to render different user interface (UI) markup if a condition is true or false. In React, it allows us to render different elements or components based on a condition.
 
-## Role-Based Access Control
+## Redux
 
 
 - Created by Dan Abramov.
